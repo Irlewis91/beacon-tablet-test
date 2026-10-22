@@ -21,7 +21,7 @@ On an iPad, Beacon needs the internet to open. It still sends nothing to us.
 
 ## When you are done
 
-Open Beacon, tap Grown-ups, then Settings and privacy, then Clear data. Deleting the app does the same. We hold no copy.
+Open Beacon, tap Grown-ups, then Settings and privacy, then Clear data. On an Android tablet, deleting the app does the same. We hold no copy.
 
 Questions: ian@matovagroup.com
 
