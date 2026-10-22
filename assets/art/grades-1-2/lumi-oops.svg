@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-labelledby="t d">
+<title id="t">Lumi the Lighthouse, oops, Grades 1-2</title>
+<desc id="d">Lumi, the lighthouse, tilts and raises both eyebrows with a small wry smile: a tricky one, not a problem.</desc>
+<defs><radialGradient id="lu12o-glow1"><stop offset="0" stop-color="#FFD87D" stop-opacity="0.55"/><stop offset="1" stop-color="#FFD87D" stop-opacity="0"/></radialGradient><clipPath id="lu12o-tw2"><path d="M68.1,126 L131.9,126 L141,189 Q141,192 138,192 L62,192 Q59,192 59,189Z"/></clipPath></defs>
+<g id="lumi-g12-oops">
+<ellipse class="shadow" cx="100" cy="223" rx="64.1" ry="8.3" fill="#000" opacity="0.26"/>
+<path fill="#365689" d="M38.1,217 C38.1,196 61.7,187 100,187 C138.3,187 161.9,196 161.9,217Z"/>
+<g class="figure">
+<circle class="glow" cx="100" cy="85.9" r="80.6" fill="url(#lu12o-glow1)"/>
+<g class="limb limb-l" data-pivot="66.3 145.8">
+<path fill="#DCD6C8" d="M0,0 C11.8,6.9 12.4,30 0,38.4 C-12.4,30 -11.8,6.9 0,0Z" transform="translate(66.3 145.8) rotate(14)"/>
+</g>
+<g class="limb limb-r" data-pivot="133.7 145.8">
+<path fill="#DCD6C8" d="M0,0 C11.8,6.9 12.4,30 0,38.4 C-12.4,30 -11.8,6.9 0,0Z" transform="translate(133.7 145.8) rotate(-14)"/>
+</g>
+<g clip-path="url(#lu12o-tw2)">
+<rect x="57" y="125.7" width="86.1" height="19.1" fill="#FAF8F4"/>
+<rect x="57" y="144.2" width="86.1" height="19.1" fill="#FF7869"/>
+<rect x="57" y="162.7" width="86.1" height="29.6" fill="#FAF8F4"/>
+</g>
+<path fill="#20355B" d="M91.4,192 L91.4,179.6 A8.6,8.6 0 0 1 108.6,179.6 L108.6,192Z"/>
+<g class="head" transform="rotate(4 100 123)">
+<rect fill="#20355B" x="54.8" y="119" width="90.4" height="8" rx="3.5"/>
+<rect fill="#FFD87D" x="55.8" y="50.8" width="88.4" height="70.2" rx="23.4"/>
+<ellipse cx="100" cy="87.3" rx="35.4" ry="25.3" fill="#FFEDB5" opacity="0.55"/>
+<g class="eye">
+<circle fill="#FFFFFF" cx="83.3" cy="85.9" r="14.6"/>
+<circle cx="79.9" cy="88.7" r="8.2" fill="#15264B"/>
+<circle cx="77.1" cy="85.7" r="3.1" fill="#fff"/>
+<circle cx="83.3" cy="92.1" r="1.4" fill="#fff" opacity="0.9"/>
+</g>
+<g class="eye">
+<circle fill="#FFFFFF" cx="116.7" cy="85.9" r="14.6"/>
+<circle cx="113.2" cy="88.7" r="8.2" fill="#15264B"/>
+<circle cx="110.4" cy="85.7" r="3.1" fill="#fff"/>
+<circle cx="116.6" cy="92.1" r="1.4" fill="#fff" opacity="0.9"/>
+</g>
+<path d="M73.9,65.9 Q83.3,59.9 92.8,65.9" fill="none" stroke="#15264B" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 83.3 64.4)"/>
+<path d="M107.9,70.9 Q116.7,64.9 125.4,70.9" fill="none" stroke="#15264B" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 116.7 69.4)"/>
+<path d="M94.5,107.5 Q99,109.5 105.5,103.5" fill="none" stroke="#EB5D50" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse class="blush" cx="70.2" cy="98.3" rx="8.5" ry="5.7" fill="#FF9E9E" opacity="0.62"/>
+<ellipse class="blush" cx="129.8" cy="98.3" rx="8.5" ry="5.7" fill="#FF9E9E" opacity="0.62"/>
+<path fill="#FF7869" d="M45.4,55.8 C45.4,32.2 72.7,12.9 100,12.9 C127.3,12.9 154.6,32.2 154.6,55.8 Q100,60.8 45.4,55.8Z"/>
+<circle fill="#F3AE2F" cx="100" cy="11.9" r="5.2"/>
+</g>
+</g></g>
+</svg>

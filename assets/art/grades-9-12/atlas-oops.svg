@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-labelledby="t d">
+<title id="t">Atlas the sea otter, oops, Grades 9-12</title>
+<desc id="d">Atlas, the sea otter, scratches his head with one flipper and a small wry smile: a wrong turn, not a problem.</desc>
+<defs><clipPath id="at912o-hd1"><circle cx="100" cy="102.9" r="32.7"/></clipPath><clipPath id="at912o-lid2"><path d="M75.2,94.7 A8,8 0 1 0 86.7,94.7Z"/></clipPath><clipPath id="at912o-lid3"><path d="M113.3,94.7 A8,8 0 1 0 124.8,94.7Z"/></clipPath></defs>
+<g id="atlas-g912-oops">
+<g class="figure" transform="rotate(4 100 214)">
+<path fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M126.4,203 Q156.6,207 154.7,179 Q141.5,191 122.6,189Z"/>
+<ellipse fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="82" cy="210" rx="15" ry="7.5"/>
+<ellipse fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="118" cy="210" rx="15" ry="7.5"/>
+<ellipse fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="100" cy="163.9" rx="37.7" ry="51.1"/>
+<ellipse fill="#F4F1E7" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="100" cy="171.9" rx="24.9" ry="38.8"/>
+<g class="limb limb-r" data-pivot="132.4 143.5">
+<path fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M0,0 C11,10.1 11.6,43.7 0,56 C-11.6,43.7 -11,10.1 0,0Z" transform="translate(132.4 143.5) rotate(-176)"/>
+</g>
+<circle fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="71.9" cy="84.9" r="7.3"/>
+<circle fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="128.1" cy="84.9" r="7.3"/>
+<circle fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="100" cy="102.9" r="32.7"/>
+<g clip-path="url(#at912o-hd1)"><ellipse cx="100" cy="116.6" rx="34.4" ry="25.5" fill="#F4F1E7"/></g>
+<circle cx="100" cy="102.9" r="32.7" fill="none" stroke="#F5F1E6" stroke-width="3.2"/>
+<ellipse fill="#F4F1E7" cx="100" cy="114" rx="16.4" ry="11.1"/>
+<g class="eye">
+<path fill="#F4F1E7" d="M75.2,94.7 A8,8 0 1 0 86.7,94.7Z"/>
+<g clip-path="url(#at912o-lid2)">
+<circle cx="79.1" cy="101.8" r="4.5" fill="#16223B"/>
+</g>
+<path d="M74.7,94.7 L87.2,94.7" fill="none" stroke="#16223B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g class="eye">
+<path fill="#F4F1E7" d="M113.3,94.7 A8,8 0 1 0 124.8,94.7Z"/>
+<g clip-path="url(#at912o-lid3)">
+<circle cx="117.1" cy="101.8" r="4.5" fill="#16223B"/>
+</g>
+<path d="M112.8,94.7 L125.3,94.7" fill="none" stroke="#16223B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M75.7,86.2 Q81,80.2 86.2,86.2" fill="none" stroke="#16223B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 81 84.7)"/>
+<path d="M114.2,91.2 Q119,85.2 123.9,91.2" fill="none" stroke="#16223B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 119 89.7)"/>
+<path fill="#16223B" d="M94,108.1 Q100,104.6 106,108.1 Q103,114.1 100,114.6 Q97,114.1 94,108.1Z"/>
+<path d="M94.5,118.6 Q99,120.6 105.5,114.6" fill="none" stroke="#583A24" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M86,132.3 L100,152.9 L114,132.3" stroke="#E1A432" stroke-width="2.4" fill="none" stroke-linejoin="round"/>
+<circle fill="#E1A432" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="100" cy="165.9" r="12.9"/>
+<circle fill="#F4F1E7" cx="100" cy="165.9" r="9.5"/>
+<path d="M100,158.2 L103.6,165.9 L96.4,165.9Z" fill="#F4F1E7"/>
+<path d="M100,173.6 L103.6,165.9 L96.4,165.9Z" fill="#B47944"/>
+<g class="map" transform="translate(55.6 147.6) rotate(4)">
+<rect fill="#F4F1E7" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" x="-6" y="0" width="12" height="48" rx="6"/>
+<rect fill="#E1A432" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" x="-7.5" y="-2" width="15" height="7" rx="3"/>
+<rect fill="#E1A432" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" x="-7.5" y="43" width="15" height="7" rx="3"/>
+</g>
+<g class="limb limb-l" data-pivot="67.6 145.6">
+<path fill="#B47944" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M0,0 C11,8.1 11.6,35.1 0,45.1 C-11.6,35.1 -11,8.1 0,0Z" transform="translate(67.6 145.6) rotate(12)"/>
+</g>
+</g></g>
+</svg>

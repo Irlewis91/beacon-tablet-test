@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-labelledby="t d">
+<title id="t">Tally the hermit crab, cheer, Grades 3-5</title>
+<desc id="d">Tally, the hermit crab, waves both claws in the air with happy closed eyes and an open smile.</desc>
+
+<g id="tally-g35-cheer">
+<ellipse class="shadow" cx="100" cy="223" rx="70" ry="9.1" fill="#000" opacity="0.26"/>
+<g class="figure" transform="rotate(0 100 214)">
+<ellipse fill="#6A4FC6" cx="76" cy="212" rx="6.4" ry="8.5"/>
+<ellipse fill="#6A4FC6" cx="58" cy="213.5" rx="6.4" ry="8.5"/>
+<ellipse fill="#6A4FC6" cx="40" cy="212" rx="6.4" ry="8.5"/>
+<ellipse fill="#6A4FC6" cx="104" cy="212" rx="6.4" ry="8.5"/>
+<ellipse fill="#6A4FC6" cx="122" cy="213.5" rx="6.4" ry="8.5"/>
+<ellipse fill="#6A4FC6" cx="140" cy="212" rx="6.4" ry="8.5"/>
+<path fill="#FFC9B5" d="M65,130.2 C65,72.2 102.7,54.8 131.7,54.8 C166.5,54.8 181,92.5 181,124.4 C181,159.2 152,170.8 123,170.8 C94,170.8 65,159.2 65,130.2Z"/>
+<circle fill="#FFC9B5" cx="134.6" cy="57.1" r="7.5"/>
+<path d="M130.3,122.1 L130.2,123.1 L129.7,124.2 L129,125.2 L128,126 L126.7,126.7 L125.2,127.2 L123.5,127.3 L121.7,127.2 L119.8,126.6 L118.1,125.7 L116.5,124.4 L115.1,122.7 L114.1,120.8 L113.5,118.6 L113.4,116.2 L113.9,113.8 L114.8,111.4 L116.3,109.1 L118.4,107 L120.9,105.4 L123.8,104.1 L127.1,103.4 L130.5,103.2 L134.1,103.7 L137.5,104.9 L140.8,106.7 L143.7,109 L146.1,112 L147.9,115.4 L149,119.1 L149.3,123.1 L148.8,127.2 L147.4,131.2 L145.1,134.9 L142.1,138.3 L138.3,141.2 L133.9,143.3 L129,144.7 L123.8,145.3 L118.4,144.9 L113.2,143.5 L108.2,141.3 L103.7,138.1 L99.8,134.1 L96.8,129.4 L94.8,124.2 L93.8,118.7 L94,112.9 L95.4,107.3 L98,101.8 L101.8,96.8 L106.5,92.5 L112.2,89.1 L118.6,86.6 L125.4,85.3 L132.5,85.2 L139.7,86.3 L146.6,88.7 L152.9,92.3 L158.5,97 L163.1,102.7 L166.5,109.1 L168.5,116.2 L169.1,123.5 L168.1,131 L165.6,138.2 L161.6,145 L156.3,151 L149.7,156.1 L142.1,159.9" fill="none" stroke="#E88FA6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
+<circle fill="#6A4FC6" cx="102.3" cy="88.6" r="5.4"/>
+<circle fill="#6A4FC6" cx="125.3" cy="81.5" r="5.4"/>
+<circle fill="#6A4FC6" cx="147.2" cy="91.7" r="5.4"/>
+<ellipse cx="87" cy="88.4" rx="5.8" ry="11.6" fill="#fff" opacity="0.5" transform="rotate(40 87 88.4)"/>
+<path d="M44,181 L30,115" stroke="#8B6FE0" stroke-width="13" stroke-linecap="round" fill="none"/>
+<path d="M136,181 L152,115" stroke="#8B6FE0" stroke-width="13" stroke-linecap="round" fill="none"/>
+<rect fill="#8B6FE0" x="63.5" y="136" width="9" height="24" rx="4.5"/>
+<rect fill="#8B6FE0" x="107.5" y="136" width="9" height="24" rx="4.5"/>
+<ellipse fill="#8B6FE0" cx="90" cy="185" rx="56" ry="35"/>
+<ellipse cx="90" cy="195.5" rx="35.8" ry="17.5" fill="#B9A6F3" opacity="0.55"/>
+<circle fill="#FFFFFF" cx="68" cy="136" r="13.2"/>
+<circle fill="#FFFFFF" cx="112" cy="136" r="13.2"/>
+<g class="eye">
+<path d="M57.7,139.7 Q68,123.5 78.3,139.7" fill="none" stroke="#14213D" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g class="eye">
+<path d="M101.7,139.7 Q112,123.5 122.3,139.7" fill="none" stroke="#14213D" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path fill="#4A2FA0" d="M83.4,181 Q90,183 96.6,181 Q94.8,191.6 90,191.6 Q85.2,191.6 83.4,181Z"/>
+<ellipse cx="90" cy="189.4" rx="3.1" ry="1.7" fill="#FF9AB8"/>
+<ellipse class="blush" cx="60" cy="183" rx="7.5" ry="5.1" fill="#FF9AB8" opacity="0.62"/>
+<ellipse class="blush" cx="120" cy="183" rx="7.5" ry="5.1" fill="#FF9AB8" opacity="0.62"/>
+<g class="claw" transform="translate(30 115) rotate(-12)">
+<circle fill="#8B6FE0" cx="0" cy="3.3" r="16.5"/>
+<path fill="#6A4FC6" d="M0,20.6 L-5.9,8.2 L5.9,8.2Z"/>
+</g>
+<g class="claw" transform="translate(152 115) rotate(13.6)">
+<circle fill="#8B6FE0" cx="0" cy="3.3" r="16.5"/>
+<path fill="#6A4FC6" d="M0,20.6 L-5.9,8.2 L5.9,8.2Z"/>
+</g>
+<path class="sparkle" d="M30,35 Q31.1,42.9 39,44 Q31.1,45.1 30,53 Q28.9,45.1 21,44 Q28.9,42.9 30,35Z" fill="#E9A62A"/>
+<path class="sparkle" d="M172,27 Q172.8,33.2 179,34 Q172.8,34.8 172,41 Q171.2,34.8 165,34 Q171.2,33.2 172,27Z" fill="#E9A62A"/>
+<path class="sparkle" d="M58,15 Q58.6,19.4 63,20 Q58.6,20.6 58,25 Q57.4,20.6 53,20 Q57.4,19.4 58,15Z" fill="#E9A62A"/>
+</g></g>
+</svg>

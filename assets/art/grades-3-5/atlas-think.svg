@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-labelledby="t d">
+<title id="t">Atlas the sea otter, think, Grades 3-5</title>
+<desc id="d">Atlas, the sea otter, looks up and to the side with one eyebrow raised and a flipper at his chin.</desc>
+<defs><clipPath id="at35t-hd1"><circle cx="100" cy="103" r="40"/></clipPath></defs>
+<g id="atlas-g35-think">
+<ellipse class="shadow" cx="100" cy="223" rx="52" ry="6.8" fill="#000" opacity="0.26"/>
+<g class="figure" transform="rotate(-4 100 214)">
+<path fill="#8F5A2B" d="M132.2,203 Q169,207 166.7,179 Q150.6,191 127.6,189Z"/>
+<ellipse fill="#8F5A2B" cx="78" cy="210" rx="15" ry="7.5"/>
+<ellipse fill="#8F5A2B" cx="122" cy="210" rx="15" ry="7.5"/>
+<ellipse fill="#B9793F" cx="100" cy="166" rx="46" ry="49"/>
+<ellipse fill="#F0D3A8" cx="100" cy="174" rx="30.4" ry="37.2"/>
+<circle fill="#B9793F" cx="65.6" cy="81" r="7.5"/>
+<circle fill="#8F5A2B" cx="65.6" cy="81" r="3.8"/>
+<circle fill="#B9793F" cx="134.4" cy="81" r="7.5"/>
+<circle fill="#8F5A2B" cx="134.4" cy="81" r="3.8"/>
+<circle fill="#B9793F" cx="100" cy="103" r="40"/>
+<g clip-path="url(#at35t-hd1)"><ellipse cx="100" cy="119.8" rx="42" ry="31.2" fill="#F0D3A8"/></g>
+<ellipse fill="#F0D3A8" cx="100" cy="116.6" rx="20" ry="13.6"/>
+<g class="eye">
+<circle fill="#FFFFFF" cx="80" cy="99.8" r="11.8"/>
+<circle cx="77.6" cy="96.2" r="6.6" fill="#14213D"/>
+<circle cx="75.3" cy="93.8" r="2.5" fill="#fff"/>
+<circle cx="80.4" cy="99" r="1.1" fill="#fff" opacity="0.9"/>
+</g>
+<g class="eye">
+<circle fill="#FFFFFF" cx="120" cy="99.8" r="11.8"/>
+<circle cx="117.6" cy="96.2" r="6.6" fill="#14213D"/>
+<circle cx="115.3" cy="93.8" r="2.5" fill="#fff"/>
+<circle cx="120.4" cy="99" r="1.1" fill="#fff" opacity="0.9"/>
+</g>
+<path d="M112.3,82 Q120,76 127.7,82" fill="none" stroke="#14213D" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 120 80.5)"/>
+<path d="M72.9,84.5 L87.1,84.5" fill="none" stroke="#14213D" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-4 80 84.5)"/>
+<path fill="#3A2A22" d="M94,109.4 Q100,105.9 106,109.4 Q103,115.4 100,115.9 Q97,115.4 94,109.4Z"/>
+<path d="M94.5,119.9 Q99,121.8 105.5,118.8" fill="none" stroke="#5A3A22" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="88" cy="109.4" r="1.1" fill="#8F5A2B" opacity="0.7"/>
+<circle cx="84.4" cy="113.4" r="1.1" fill="#8F5A2B" opacity="0.7"/>
+<circle cx="80.8" cy="117.4" r="1.1" fill="#8F5A2B" opacity="0.7"/>
+<circle cx="112" cy="109.4" r="1.1" fill="#8F5A2B" opacity="0.7"/>
+<circle cx="115.6" cy="113.4" r="1.1" fill="#8F5A2B" opacity="0.7"/>
+<circle cx="119.2" cy="117.4" r="1.1" fill="#8F5A2B" opacity="0.7"/>
+<ellipse class="blush" cx="68.2" cy="111.6" rx="7" ry="4.8" fill="#FF9A8A" opacity="0.62"/>
+<ellipse class="blush" cx="131.8" cy="111.6" rx="7" ry="4.8" fill="#FF9A8A" opacity="0.62"/>
+<path d="M86,139 L100,155 L114,139" stroke="#C4841A" stroke-width="2.4" fill="none" stroke-linejoin="round"/>
+<circle fill="#E9A62A" cx="100" cy="168" r="13"/>
+<circle fill="#F6EBCB" cx="100" cy="168" r="9.6"/>
+<path d="M100,160.2 L103.6,168 L96.4,168Z" fill="#CF5447"/>
+<path d="M100,175.8 L103.6,168 L96.4,168Z" fill="#8F5A2B"/>
+<g class="map" transform="translate(46.4 154.4) rotate(6)">
+<rect fill="#F6EBCB" x="-6" y="0" width="12" height="48" rx="6"/>
+<rect fill="#E9A62A" x="-7.5" y="-2" width="15" height="7" rx="3"/>
+<rect fill="#E9A62A" x="-7.5" y="43" width="15" height="7" rx="3"/>
+<rect x="-6" y="22.1" width="12" height="3.2" fill="#CF5447"/>
+</g>
+<g class="limb limb-l" data-pivot="60.4 148.4">
+<path fill="#8F5A2B" d="M0,0 C11,7.9 11.6,34.3 0,44 C-11.6,34.3 -11,7.9 0,0Z" transform="translate(60.4 148.4) rotate(14)"/>
+</g>
+<g class="limb limb-r" data-pivot="135.6 154.4">
+<path fill="#8F5A2B" d="M0,0 C11,7.5 11.6,32.6 0,41.8 C-11.6,32.6 -11,7.5 0,0Z" transform="translate(135.6 154.4) rotate(64)"/>
+</g>
+</g></g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-labelledby="t d">
+<title id="t">Tally the hermit crab, cheer, Grades 1-2</title>
+<desc id="d">Tally, the hermit crab, waves both claws in the air with happy closed eyes and an open smile.</desc>
+
+<g id="tally-g12-cheer">
+<ellipse class="shadow" cx="100" cy="223" rx="75.7" ry="9.8" fill="#000" opacity="0.26"/>
+<g class="figure" transform="rotate(0 100 214)">
+<ellipse fill="#7155CF" cx="76" cy="212" rx="6.4" ry="8.5"/>
+<ellipse fill="#7155CF" cx="55.5" cy="213.5" rx="6.4" ry="8.5"/>
+<ellipse fill="#7155CF" cx="104" cy="212" rx="6.4" ry="8.5"/>
+<ellipse fill="#7155CF" cx="124.5" cy="213.5" rx="6.4" ry="8.5"/>
+<path fill="#FFD4C4" d="M63.9,129.9 C63.9,67.7 104.3,49.1 135.3,49.1 C172.6,49.1 188.1,89.5 188.1,123.6 C188.1,160.9 157.1,173.3 126,173.3 C94.9,173.3 63.9,160.9 63.9,129.9Z"/>
+<circle fill="#FFD4C4" cx="138.4" cy="51.6" r="8.1"/>
+<circle fill="#7155CF" cx="103.8" cy="85.3" r="6"/>
+<circle fill="#7155CF" cx="128.5" cy="77.8" r="6"/>
+<circle fill="#7155CF" cx="151.9" cy="88.7" r="6"/>
+<path d="M36.2,181.8 L22.2,115.8" stroke="#9376E8" stroke-width="13" stroke-linecap="round" fill="none"/>
+<path d="M143.8,181.8 L159.8,115.8" stroke="#9376E8" stroke-width="13" stroke-linecap="round" fill="none"/>
+<rect fill="#9376E8" x="62.6" y="138" width="9" height="23.7" rx="4.5"/>
+<rect fill="#9376E8" x="108.4" y="138" width="9" height="23.7" rx="4.5"/>
+<ellipse fill="#9376E8" cx="90" cy="185.8" rx="63.8" ry="34.2"/>
+<circle fill="#FFFFFF" cx="67.1" cy="138" r="17.2"/>
+<circle fill="#FFFFFF" cx="112.9" cy="138" r="17.2"/>
+<g class="eye">
+<path d="M53.7,142.8 Q67.1,121.7 80.5,142.8" fill="none" stroke="#15264B" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g class="eye">
+<path d="M99.5,142.8 Q112.9,121.7 126.3,142.8" fill="none" stroke="#15264B" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path fill="#4C2CB2" d="M83.4,181.8 Q90,183.8 96.6,181.8 Q94.8,192.4 90,192.4 Q85.2,192.4 83.4,181.8Z"/>
+<ellipse class="blush" cx="58" cy="183.8" rx="9.8" ry="6.6" fill="#FFA9C3" opacity="0.62"/>
+<ellipse class="blush" cx="122" cy="183.8" rx="9.8" ry="6.6" fill="#FFA9C3" opacity="0.62"/>
+<g class="claw" transform="translate(22.2 115.8) rotate(-12)">
+<circle fill="#9376E8" cx="0" cy="3.3" r="16.7"/>
+<path fill="#7155CF" d="M0,20.9 L-6,8.4 L6,8.4Z"/>
+</g>
+<g class="claw" transform="translate(159.8 115.8) rotate(13.6)">
+<circle fill="#9376E8" cx="0" cy="3.3" r="16.7"/>
+<path fill="#7155CF" d="M0,20.9 L-6,8.4 L6,8.4Z"/>
+</g>
+<path class="sparkle" d="M30,35 Q31.1,42.9 39,44 Q31.1,45.1 30,53 Q28.9,45.1 21,44 Q28.9,42.9 30,35Z" fill="#F3AE2F"/>
+</g></g>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="200" height="240" role="img" aria-labelledby="t d">
+<title id="t">Lumi the Lighthouse, idle, Grades 9-12</title>
+<desc id="d">Lumi, a red-and-white striped lighthouse with a glowing lantern for a face, smiles with bright open eyes.</desc>
+<defs><clipPath id="lu912i-tw1"><path d="M77,83.4 L123,83.4 L129.5,189 Q129.5,192 126.5,192 L73.5,192 Q70.5,192 70.5,189Z"/></clipPath><clipPath id="lu912i-lid2"><path d="M79,53.7 A7.6,7.6 0 1 0 92.9,53.7Z"/></clipPath><clipPath id="lu912i-lid3"><path d="M107.1,53.7 A7.6,7.6 0 1 0 121,53.7Z"/></clipPath></defs>
+<g id="lumi-g912-idle">
+<path fill="#385178" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M40.1,217 C40.1,196 62.9,187 100,187 C137.1,187 159.9,196 159.9,217Z"/>
+<g class="figure">
+<path d="M69,46.8 L57,43.8" fill="none" stroke="#E1A432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M69,60.8 L55,60.8" fill="none" stroke="#E1A432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M69,74.8 L57,77.8" fill="none" stroke="#E1A432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131,46.8 L143,43.8" fill="none" stroke="#E1A432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131,60.8 L145,60.8" fill="none" stroke="#E1A432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131,74.8 L143,77.8" fill="none" stroke="#E1A432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="limb limb-l" data-pivot="76.1 116">
+<path fill="#F4F1E7" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M0,0 C10,7.4 10.5,31.9 0,41 C-10.5,31.9 -10,7.4 0,0Z" transform="translate(76.1 116) rotate(10)"/>
+</g>
+<g class="limb limb-r" data-pivot="123.9 116">
+<path fill="#F4F1E7" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M0,0 C10,7.4 10.5,31.9 0,41 C-10.5,31.9 -10,7.4 0,0Z" transform="translate(123.9 116) rotate(-10)"/>
+</g>
+<g clip-path="url(#lu912i-tw1)">
+<rect x="68.5" y="83.1" width="63" height="33.2" fill="#F4F1E7"/>
+<rect x="68.5" y="115.7" width="63" height="27.8" fill="#F77062"/>
+<rect x="68.5" y="142.8" width="63" height="25.6" fill="#F4F1E7"/>
+<rect x="68.5" y="167.8" width="63" height="24.5" fill="#F77062"/>
+</g>
+<path d="M77,83.4 L123,83.4 L129.5,189 Q129.5,192 126.5,192 L73.5,192 Q70.5,192 70.5,189Z" fill="none" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round"/>
+<path fill="#385178" d="M91.7,192 L91.7,179.3 A8.3,8.3 0 0 1 108.3,179.3 L108.3,192Z"/>
+<g class="head" transform="rotate(0 100 80.4)">
+<rect fill="#385178" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" x="74" y="76.4" width="52" height="8" rx="3.5"/>
+<rect fill="#E1A432" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" x="75" y="35.2" width="50" height="43.2" rx="12"/>
+<g class="eye">
+<path fill="#F4F1E7" d="M79,53.7 A7.6,7.6 0 1 0 92.9,53.7Z"/>
+<g clip-path="url(#lu912i-lid2)">
+<circle cx="85.9" cy="56.9" r="4.3" fill="#16223B"/>
+</g>
+<path d="M78.5,53.7 L93.4,53.7" fill="none" stroke="#16223B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g class="eye">
+<path fill="#F4F1E7" d="M107.1,53.7 A7.6,7.6 0 1 0 121,53.7Z"/>
+<g clip-path="url(#lu912i-lid3)">
+<circle cx="114.1" cy="56.9" r="4.3" fill="#16223B"/>
+</g>
+<path d="M106.6,53.7 L121.5,53.7" fill="none" stroke="#16223B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M109.5,46.1 L118.6,46.1" fill="none" stroke="#16223B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-5 114.1 46.1)"/>
+<path d="M95.5,69.9 Q100,74.4 104.5,69.9" fill="none" stroke="#DC5C50" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill="#F77062" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" d="M68,40.2 C68,25.6 84,13.8 100,13.8 C116,13.8 132,25.6 132,40.2 Q100,45.2 68,40.2Z"/>
+<circle fill="#E1A432" stroke="#F5F1E6" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" cx="100" cy="12.8" r="4.6"/>
+</g>
+</g></g>
+</svg>
