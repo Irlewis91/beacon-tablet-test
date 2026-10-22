@@ -2,7 +2,7 @@
 
 Beacon is an early test of a reading practice app for children, made by Matova. This page is for the families we invited to try it.
 
-The app does not use the internet and sends nothing to us or to anyone else. Your child's results stay on your tablet.
+Beacon sends nothing to us or to anyone else. Your child's results stay on your tablet.
 
 ## Install on an Android or Amazon Fire tablet
 
@@ -11,7 +11,13 @@ The app does not use the internet and sends nothing to us or to anyone else. You
 3. If a warning says the app comes from an unknown developer, tap More details, then Install anyway. It is our test app, and it is not in the Play Store yet.
 4. Open Beacon from the home screen. You can turn the install setting back off afterwards.
 
-iPad: not available here yet. We will send a separate link.
+## Use it on an iPad
+
+1. On the iPad, open this link in Safari: https://irlewis91.github.io/beacon-tablet-test/
+2. Tap the Share button (the square with an arrow, at the top). If you do not see Add to Home Screen, tap View More. Tap Add to Home Screen, then Add.
+3. From now on, open Beacon from its icon on the Home Screen, not from Safari. Your child's progress is saved with that icon. In a Safari tab, Safari may clear saved progress after about a week without a visit.
+
+On an iPad, Beacon needs the internet to open. It still sends nothing to us.
 
 ## When you are done
 
